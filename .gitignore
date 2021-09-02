@@ -4,7 +4,7 @@ build/
 dist/
 *.egg-info
 *_testing.py
-
+venv/
 # pipenv
 .env
 .venv
